@@ -1,4 +1,4 @@
-# Zillow Project - Data Lab
+# Zillow Project - Data Lab at Bentley University
 
 This page collects links to
 - info about Kaggle Zillow competition
